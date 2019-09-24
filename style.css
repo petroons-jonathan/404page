@@ -1,0 +1,14 @@
+body {
+    border:solid 3px;
+}
+#robot {
+    border:solid 3px;
+    display: flex;
+    justify-content: center;
+
+}
+#robot img {
+    width:450px;
+    height: 450px;
+    border:solid 3px;
+}
